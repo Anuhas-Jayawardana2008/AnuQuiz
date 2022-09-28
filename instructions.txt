@@ -1,0 +1,22 @@
+# Possibilities
+	- The buttons might not work, in that case, try double clicking or having a slight delay between the clicks
+
+# How to run ---
+    if you have python (needs to be added to path and has to include Tcl/Tkinter module), go to the 
+    source folder and double click on the main.py (might be slow on the first time)
+
+    - should also have pygame installed 
+    - pygame can be installed via the command prompt (pip install pygame)
+
+    but if you don't have python, go to the build folder and run the main.exe file. If it gives
+    you and error, try getting Visual C++ Distributable. 
+
+# Keep in Mind
+	- No matter if it's the .exe or the .py, it will crash it it doesn't find the components folder
+	(keep the components folder in the same folder as the main.py or main.exe)
+
+# How to use
+
+	- The creator can create quizes and save it, then the save file can be sent to the students
+	- Students can easily load the save file on their computer and use it (answer quiz)
+	- In The end, students can submit and see the marks. (answers should match the creator's answers)
